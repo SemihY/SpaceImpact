@@ -1,0 +1,6 @@
+Proje raporu 
+
+1. Phase de gui kýsmýný tamamlamýþtým. Rocket ve canavarlar olan eklentileri ekledim.
+2. Phase de Rocketin hareketlerini tamamladým.Fakat canavarlarý alt ve üste gidecek þekilde hareket ettirememiþtim.
+3. Phase de Rocketin hareketlerinine canavarlarýnýn hareketleride ekledim.Ayrýyetten restart ve close jmenu sü yaptým.Oyun
+skorlarýda deneme adlý .txt dosyasýnda kaydediyor.
